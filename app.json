@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-query-test",
+    "slug": "react-query-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-query-test"
+}
